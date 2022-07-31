@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PublishConfigData" serverName="AppleLogin">
+    <serverData>
+      <paths name="AppleLogin">
+        <serverdata>
+          <mappings>
+            <mapping local="$PROJECT_DIR$" web="restful_php_api" />
+          </mappings>
+        </serverdata>
+      </paths>
+    </serverData>
+  </component>
+</project>

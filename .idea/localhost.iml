@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="WEB_MODULE" version="4">
+  <component name="NewModuleRootManager">
+    <content url="file://$MODULE_DIR$">
+      <excludeFolder url="file://$MODULE_DIR$/restful_php_api/vendor/composer" />
+      <excludeFolder url="file://$MODULE_DIR$/restful_php_api/vendor/phpseclib/phpseclib" />
+      <excludeFolder url="file://$MODULE_DIR$/restful_php_api/vendor/lcobucci/jwt" />
+      <excludeFolder url="file://$MODULE_DIR$/restful_php_api/vendor/lcobucci/clock" />
+      <excludeFolder url="file://$MODULE_DIR$/restful_php_api/vendor/ralouphie/getallheaders" />
+      <excludeFolder url="file://$MODULE_DIR$/restful_php_api/vendor/symfony/deprecation-contracts" />
+      <excludeFolder url="file://$MODULE_DIR$/restful_php_api/vendor/paragonie/random_compat" />
+      <excludeFolder url="file://$MODULE_DIR$/restful_php_api/vendor/paragonie/constant_time_encoding" />
+      <excludeFolder url="file://$MODULE_DIR$/restful_php_api/vendor/psr/http-message" />
+      <excludeFolder url="file://$MODULE_DIR$/restful_php_api/vendor/psr/http-client" />
+      <excludeFolder url="file://$MODULE_DIR$/restful_php_api/vendor/psr/http-factory" />
+      <excludeFolder url="file://$MODULE_DIR$/restful_php_api/vendor/guzzlehttp/promises" />
+      <excludeFolder url="file://$MODULE_DIR$/restful_php_api/vendor/guzzlehttp/psr7" />
+      <excludeFolder url="file://$MODULE_DIR$/restful_php_api/vendor/guzzlehttp/guzzle" />
+      <excludeFolder url="file://$MODULE_DIR$/restful_php_api/vendor/azimolabs/apple-sign-in-php-sdk" />
+      <excludeFolder url="file://$MODULE_DIR$/restful_php_api/vendor/phpmailer/phpmailer" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>

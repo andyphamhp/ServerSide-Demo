@@ -1,0 +1,18 @@
+{
+  "name": "vendor_name/restful_php_api",
+  "description": "description",
+  "minimum-stability": "stable",
+  "license": "proprietary",
+  "authors": [
+    {
+      "name": "asim",
+      "email": "email@example.com"
+    }
+  ],
+  "require": {
+    "azimolabs/apple-sign-in-php-sdk": "1.5.x",
+    "ext-json": "*",
+    "phpmailer/phpmailer": "^6.5",
+    "ext-mysqli": "*"
+  }
+}
